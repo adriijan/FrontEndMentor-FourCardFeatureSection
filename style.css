@@ -146,10 +146,12 @@ main {
 
     header h2 {
         font-size: 25px;
+        text-align: center;
     }
 
     header h1 {
         font-size: 25px;
+        text-align: center;
     }
 
     header p {
